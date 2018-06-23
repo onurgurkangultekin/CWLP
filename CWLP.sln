@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CWLP", "CWLP\CWLP.pyproj", "{1A7E6C39-B43E-42F9-BD2F-8480B3CB8977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7E6C39-B43E-42F9-BD2F-8480B3CB8977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7E6C39-B43E-42F9-BD2F-8480B3CB8977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A1DD7E-50AD-45FB-91E3-F157BAA44DAB}
+	EndGlobalSection
+EndGlobal
